@@ -11,7 +11,7 @@ The properties you need to add are:
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
-
+`div` element should have a yellow background, red text, 
 
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
